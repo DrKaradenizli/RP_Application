@@ -1,0 +1,14 @@
+~~~~~~~~~~~~~~~~~~~~
+Found car with id 1
+Found car with id 2
+Found car with id 3
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+Found car with id 1
+Found car with id 2
+~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
+Found car with id 4
+Found car with id 5
+Found car with id 6
+There weren't as many cars in the list as you asked for.
